@@ -81,4 +81,5 @@ p {
     width: 100%;
     border-top: 8px solid #4aaaa5;
     background-color: rgb(63, 63, 63);
+    text-align: left;
 }
